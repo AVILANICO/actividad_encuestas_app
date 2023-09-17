@@ -1,7 +1,9 @@
-.App {
-  text-align: center;
+.preguntas{
+  margin-left: 0;
+  padding: 0;
+  display: flex;
+  justify-content: start;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
